@@ -1,0 +1,11 @@
+services:
+  webserver:
+    build: .
+    ports:
+      - "8080:80"
+
+  database:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: mypassword
+      MYSQL_DATABASE: portfolio_db

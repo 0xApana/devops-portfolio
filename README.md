@@ -7,7 +7,7 @@ Built as part of my hands-on Cloud & DevOps learning journey.
 
 ## 📸 Preview
 
-![Portfolio Preview](./screenshots/preview.png)
+![Portfolio Preview](./preview.png)
 
 ---
 
@@ -22,6 +22,7 @@ Built as part of my hands-on Cloud & DevOps learning journey.
 | MySQL | Database |
 | Docker Compose | Multi-container orchestration |
 
+'''
 ---
 
 ## 📁 Project Structure
